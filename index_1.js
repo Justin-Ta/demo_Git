@@ -1,4 +1,5 @@
-var f_initBranch= function () {
+var f_initBranch= document.getElementById('test').onclick;
+f_initBranch= function () {
     console.log("Console_log_1");
     console.log("done_f1");
     console.log("console_log_f2");
